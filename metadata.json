@@ -1,0 +1,6 @@
+{
+  "name": "PGDCA Mobile Prep & Question Bank",
+  "description": "Mobile-first PGDCA Semester I & II 10-Question Bank with comprehensive answers and paper pattern.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
